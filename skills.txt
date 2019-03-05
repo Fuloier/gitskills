@@ -1,0 +1,2 @@
+1.merge --no-ff: merge two branchs NOT by "Fast forward". 
+2.stash: storage current work and cover.
