@@ -1,2 +1,3 @@
 1.merge --no-ff: merge two branchs NOT by "Fast forward". 
 2.stash: storage current work and cover.
+3.stash apply: recover work tree and NOT delete stash things.
